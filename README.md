@@ -1,5 +1,10 @@
 # Polymer
 
+> Gmolymer, Dev testneti mevcut ama bizde IBC Channel oluşturup katılalım bir nebze.
+
+> Şahsen [benim](https://x.com/Ruesandora0/status/1732454399543234688?s=20) için öenmli bir proje - siz katılmak isterseniz diye paylaşıyorum.
+
+> Günün sonunda rolümüzü alıyoruz. Donanım olarak herhangi bir sunucu yeterli.
 
 ```console
 sudo apt update -y && sudo apt upgrade -y
