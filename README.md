@@ -8,6 +8,8 @@
 
 > Sorulara hızlı cevap veremeyebilirim hala iyilesmedim ve Can Azerbaycan yolculuğum var 2 gün sonra.
 
+> Topluluk kanalları: [Sohbet Kanalımız](https://t.me/RuesChat) - [Duyurular ve Gelişmeler](https://t.me/RuesAnnouncement) - [Whatsapp](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Polymer Discord](https://discord.gg/nSUdZ7tg)
+
 ```console
 sudo apt update -y && sudo apt upgrade -y
 sudo apt-get install git -y
