@@ -6,6 +6,8 @@
 
 > Günün sonunda rolümüzü alıyoruz. Donanım olarak herhangi bir sunucu yeterli.
 
+> Sorulara hızlı cevap veremeyebilirim hala iyilesmedim ve Can Azerbaycan yolculuğum var 2 gün sonra.
+
 ```console
 sudo apt update -y && sudo apt upgrade -y
 sudo apt-get install git -y
